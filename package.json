@@ -7,9 +7,9 @@
     "css:purge": "purgecss -c purgecss.config.js"
   },
   "devDependencies": {
-    "@shopify/prettier-plugin-liquid": "1.11.1",
-    "prettier": "3.9.9",
-    "purgecss": "8.0.0"
+    "@shopify/prettier-plugin-liquid": "1.11.6",
+    "prettier": "3.10.1",
+    "purgecss": "9.1.0"
   }
 }
 
