@@ -12,5 +12,5 @@ group :jekyll_plugins do
   gem "jekyll-sitemap", "1.4.0"
 end
 
-gem "nokogiri", "1.19.4" # jekyll-link-attributes omits this runtime dependency
+gem "nokogiri", "1.19.7" # jekyll-link-attributes omits this runtime dependency
 gem "webrick", "1.9.2"
