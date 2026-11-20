@@ -17,7 +17,9 @@
     - TensorFlow
     - Keras
     - Computer Vision
-  links: []
+  links:
+    - label: Code
+      url: https://github.com/Shumaita/Mango-Leaf-Disease-Classification
 
 - id: ai-waiter
   title: AI Waiter
@@ -37,7 +39,9 @@
     - AI Search
     - Path Planning
     - Python
-  links: []
+  links:
+    - label: Code
+      url: https://github.com/Shumaita/AI_waiter
 
 - id: optimal-location-finding
   title: Optimal Location Finding
@@ -52,7 +56,9 @@
     - Algorithms
     - Python
     - Graph Search
-  links: []
+  links:
+    - label: Code
+      url: https://github.com/Shumaita/Optimal-Location-Finding
 
 - id: ransomware-analysis
   title: Creating and Analyzing Ransomware Behavior in a Virtual Machine
@@ -73,7 +79,9 @@
     - Security
     - Virtual Machine
     - Malware Analysis
-  links: []
+  links:
+    - label: Code
+      url: https://github.com/Shumaita/Creating-and-Analyzing-Ransomware-Behavior-in-a-Virtual-Machine
 
 - id: system-monitor
   title: System Monitor
@@ -88,7 +96,9 @@
     - Python
     - Monitoring
     - Visualization
-  links: []
+  links:
+    - label: Code
+      url: https://github.com/Shumaita/System_Monitor
 
 - id: curve-fitting-visualization
   title: Curve Fitting Visualization
@@ -103,7 +113,9 @@
     - Python
     - Matplotlib
     - Visualization
-  links: []
+  links:
+    - label: Code
+      url: https://github.com/Shumaita/Curve-Fitting-Visualization
 
 - id: army-website-replica
   title: Bangladesh Army Website Replica
@@ -119,3 +131,19 @@
     - CSS
     - JavaScript
   links: []
+
+- id: nasa-space-app-2023
+  title: NASA Space App Challenge 2023
+  category: ml-ai
+  homepage: false
+  work_order: 8
+  meta: Hackathon · 2nd Runner Up
+  summary: Project built for the NASA Space App Challenge 2023 at International Islamic University Chittagong.
+  contribution: Team project developed during the challenge.
+  evidence: 2nd Runner Up at NASA Space App Challenge, IIUC (2023).
+  tags:
+    - Hackathon
+    - NASA Space Apps
+  links:
+    - label: Code
+      url: https://github.com/Shumaita/NASA_SpaceApp_2023
