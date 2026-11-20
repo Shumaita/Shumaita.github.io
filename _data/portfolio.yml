@@ -1,0 +1,121 @@
+- id: mango-leaf-disease
+  title: Mango Leaf Disease Classification
+  category: ml-ai
+  homepage: true
+  homepage_order: 1
+  homepage_meta: Computer Vision · Deep Learning
+  homepage_summary: Classifying mango leaf diseases from images with custom CNNs.
+  homepage_contribution: Designed and trained custom Convolutional Neural Network models.
+  homepage_result: Image-based disease classification pipeline.
+  work_order: 1
+  meta: Computer Vision · Deep Learning
+  summary: Classifies mango leaf diseases from images using custom Convolutional Neural Network models.
+  contribution: Designed, trained, and evaluated custom CNN architectures for leaf disease recognition.
+  evidence: Built an end-to-end image classification pipeline for plant disease detection.
+  tags:
+    - CNN
+    - TensorFlow
+    - Keras
+    - Computer Vision
+  links: []
+
+- id: ai-waiter
+  title: AI Waiter
+  category: ml-ai
+  homepage: true
+  homepage_order: 3
+  homepage_meta: Artificial Intelligence · Search
+  homepage_summary: A robot waiter that plans the shortest path to a customer's table.
+  homepage_contribution: Implemented AI search to route from kitchen to table.
+  homepage_result: Shortest-path navigation for a restaurant robot.
+  work_order: 2
+  meta: Artificial Intelligence · Path Planning
+  summary: Helps a robot waiter identify the shortest path from a restaurant kitchen to a customer's table using AI search.
+  contribution: Modelled the restaurant as a search space and implemented shortest-path algorithms.
+  evidence: Robot reaches the requested table via the shortest route.
+  tags:
+    - AI Search
+    - Path Planning
+    - Python
+  links: []
+
+- id: optimal-location-finding
+  title: Optimal Location Finding
+  category: ml-ai
+  homepage: false
+  work_order: 3
+  meta: Algorithms · Python
+  summary: Identifies the optimal path from a source to a destination using Python.
+  contribution: Implemented path-finding logic and route selection.
+  evidence: Finds optimal routes between source and destination locations.
+  tags:
+    - Algorithms
+    - Python
+    - Graph Search
+  links: []
+
+- id: ransomware-analysis
+  title: Creating and Analyzing Ransomware Behavior in a Virtual Machine
+  category: systems-security
+  homepage: true
+  homepage_order: 2
+  homepage_title: Ransomware Behavior Analysis
+  homepage_meta: Cybersecurity · Virtual Machines
+  homepage_summary: Building a crypto-ransomware in an isolated VM to study its behavior.
+  homepage_contribution: Created the sample and analyzed its behavior in a sandboxed environment.
+  homepage_result: Documented the nature of ransomware attacks.
+  work_order: 4
+  meta: Cybersecurity · Virtual Machines
+  summary: Creates a crypto-ransomware inside a virtual machine to examine the behavior and nature of ransomware attacks.
+  contribution: Built the sample in an isolated environment and observed its behavior.
+  evidence: Documented how ransomware operates to inform defensive understanding.
+  tags:
+    - Security
+    - Virtual Machine
+    - Malware Analysis
+  links: []
+
+- id: system-monitor
+  title: System Monitor
+  category: systems-security
+  homepage: false
+  work_order: 5
+  meta: Systems · Visualization
+  summary: Real-time monitoring of CPU usage, memory usage, and network activity, displayed through live graphs.
+  contribution: Built the monitoring tool and live graphing.
+  evidence: Live graphs of CPU, memory, and network activity.
+  tags:
+    - Python
+    - Monitoring
+    - Visualization
+  links: []
+
+- id: curve-fitting-visualization
+  title: Curve Fitting Visualization
+  category: software-web
+  homepage: false
+  work_order: 6
+  meta: Software · Visualization
+  summary: A software application that helps users understand and visualize the process of fitting mathematical curves.
+  contribution: Designed and built the application.
+  evidence: Interactive visualization of curve fitting.
+  tags:
+    - Python
+    - Matplotlib
+    - Visualization
+  links: []
+
+- id: army-website-replica
+  title: Bangladesh Army Website Replica
+  category: software-web
+  homepage: false
+  work_order: 7
+  meta: Web Development
+  summary: Replicates the design of the Bangladesh Army website using HTML, CSS, and JavaScript.
+  contribution: Implemented the full front-end layout.
+  evidence: Responsive replica of a large institutional website.
+  tags:
+    - HTML
+    - CSS
+    - JavaScript
+  links: []
