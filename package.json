@@ -1,0 +1,15 @@
+{
+  "name": "shumaita-portfolio",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "css:purge": "purgecss -c purgecss.config.js"
+  },
+  "devDependencies": {
+    "@shopify/prettier-plugin-liquid": "1.11.1",
+    "prettier": "3.9.9",
+    "purgecss": "8.0.0"
+  }
+}
+
