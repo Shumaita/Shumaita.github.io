@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Home
-seo_title: Shumaita Binte Burhan - Computer Science and Engineering
+seo_title: Shumaita | Shumaita Binte Burhan - Portfolio
 permalink: /
-description: Computer Science and Engineering graduate interested in NLP, large language models, information retrieval, AI agents, and computer vision.
-keywords: natural language processing, large language models, information retrieval, AI agents, computer vision, machine learning
+description: Shumaita Binte Burhan - portfolio of a Computer Science and Engineering graduate working in NLP, large language models, information retrieval, AI agents, and computer vision.
+keywords: Shumaita, Shumaita Binte Burhan, natural language processing, large language models, information retrieval, AI agents, computer vision, machine learning
 nav: false
 ---
 
