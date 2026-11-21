@@ -24,6 +24,13 @@ nav_order: 4
       <p>Conducted lab sessions for Tools and Technologies for Internet Programming, and provided academic and technical support to undergraduate students.</p>
     </div>
   </article>
+  <article class="experience-role">
+    <div class="experience-meta"><strong>Black Origin</strong><span>Jun 2023 - Jun 2024</span></div>
+    <div class="experience-content">
+      <h3>Intern, Web Development</h3>
+      <p>Completed a one-year internship focused on front-end development, contributing to various web development projects and guiding and supporting the team.</p>
+    </div>
+  </article>
 </section>
 
 <section class="experience-block education-block" aria-labelledby="education">

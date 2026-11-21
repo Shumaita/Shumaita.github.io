@@ -99,6 +99,7 @@ nav: false
     </div>
     <div class="portfolio-timeline">
       <article class="timeline-item"><p class="timeline-date">Jul – Dec 2024</p><div><h3>Teaching Assistant</h3><p>International Islamic University Chittagong · Bangladesh</p><p class="timeline-detail">Conducted labs for Tools and Technologies for Internet Programming and supported undergraduate students.</p></div></article>
+      <article class="timeline-item"><p class="timeline-date">Jun 2023 – Jun 2024</p><div><h3>Intern, Web Development</h3><p>Black Origin</p><p class="timeline-detail">Front-end development and support across various web development projects.</p></div></article>
       <article class="timeline-item"><p class="timeline-date">2021 – 2025</p><div><h3>B.Sc. in Computer Science and Engineering</h3><p>International Islamic University Chittagong · CGPA 3.908/4.0</p></div></article>
     </div>
     <div class="section-action"><a class="text-link" href="{{ '/experience/' | relative_url }}">View full experience <span aria-hidden="true">→</span></a></div>
